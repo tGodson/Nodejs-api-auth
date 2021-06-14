@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/tGodson/Nodejs-api-auth/issues"
   },
-  "homepage": "https://github.com/tGodson/Nodejs-api-auth#readme"
+  "homepage": "https://github.com/tGodson/Nodejs-api-auth#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }
